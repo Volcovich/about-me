@@ -19,3 +19,6 @@ layout: default
 # Fun fact
 - я невероятно устал, а это только первый месяц учёбы(
 
+# Одногруппники
+- Горохов Иван Сергеевич email: ivan.gorokhov111@gmail.com [Страничка](https://ivangorokhov111-cpu.github.io/laba2/)
+
